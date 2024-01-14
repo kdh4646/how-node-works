@@ -18,7 +18,7 @@ myEmitter.on("newSale", () => {
 
 //Observer2
 myEmitter.on("newSale", () => {
-  console.log("Costumer name: Jonas");
+  console.log("Customer name: Jonas");
 });
 
 //Observer3
